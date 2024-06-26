@@ -43,10 +43,6 @@ No additional setup or dependencies are required.
 2. Refresh the page to roll the dice.
 3. The result will display which player won or if it's a draw.
 
-### Example
-
-![Dice Game Screenshot](screenshot.png)
-
 ## Files
 
 - `index.html`: The main HTML file containing the structure of the game.
